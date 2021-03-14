@@ -1,0 +1,23 @@
+{
+  "name": "granit-react-app",
+  "version": "1.0.0",
+  "description": "recode granit app to react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungCoder707/granit-react-app.git"
+  },
+  "author": "Bohdan Shchur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungCoder707/granit-react-app/issues"
+  },
+  "homepage": "https://github.com/YoungCoder707/granit-react-app#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "reactstrap": "^8.9.0"
+  }
+}
